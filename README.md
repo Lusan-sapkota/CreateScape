@@ -58,7 +58,7 @@ To run CreateScape on your local machine, follow these steps:
         ◦ Open your terminal and run:
           bash
           Copy code
-          git clone https://github.com/username/CreateScape.git
+          git clone [https://github.com/username/CreateScape.git](https://github.com/Lusan-sapkota/CreateScape.git)
         ◦ Navigate to the project directory:
           bash
           Copy code
